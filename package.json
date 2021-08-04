@@ -11,7 +11,8 @@
     "RestApi",
     "MongoDB",
     "Mongoose",
-    "Notes"
+    "Notes",
+    "Auth"
   ],
   "author": "Vlad",
   "license": "ISC",
